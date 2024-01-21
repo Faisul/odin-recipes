@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border: 1px;
+}
